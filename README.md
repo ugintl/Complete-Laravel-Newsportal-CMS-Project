@@ -16,7 +16,7 @@ it just a web app running on one of the most poerful php framework called larave
 - ARTICLES/TAGS/CATEGORY & SUB-CATEGORY MODULES
 - DYNAMIC APP SETTINGS (menus edit, general settings, homepage & widget settings)
 - QUEUE WORKERS FOR EMAIL AND VERIFICATIONS
-- BUILT WITH LOVE AND MOBILEFORST DESIGN.
+- BUILT WITH LOVE AND MOBILEFIORST DESIGN.
 
 ## LIBRARY/STACKS USED
 - PHP
